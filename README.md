@@ -14,7 +14,7 @@ https://www.microchip.com/mplab/avr-support/atmel-studio-7
 
 This Following Repo will have some basic Assembly Programs.
 
-1- Arithmetic & Logic Operations
+1. Arithmetic & Logic Operations
     - ADD
     - ADDI
     - ADC
