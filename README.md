@@ -21,4 +21,3 @@ This Following Repo will have some basic Assembly Programs.
     - DEC
     - COM
     - NEG
->>>>>>> Stashed changes
