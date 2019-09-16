@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-
-Guide on Setting up Environment For installing ATMEL STUDIO 7
-
-Minimum Requirement For the ATMEL STUDIO 7
-=======
-##Atmel Studio 7
+## ATMEL STUDIO 7
 
 Guide on Setting up Environment For installing ATMEL STUDIO 7
 
