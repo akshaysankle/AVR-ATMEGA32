@@ -1,3 +1,5 @@
+#include "m32def.inc"
+
 LDI R16,0xFF
 OUT DDRB,R16
 L1: OUT PORTB,R16
